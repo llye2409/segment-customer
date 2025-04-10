@@ -30,13 +30,7 @@ Dữ liệu gồm:
 """)
 
 st.subheader("📌 Data sample")
-
-# Đọc dữ liệu mẫu từ file CSV (bạn có thể thay bằng file bạn có)
-products = pd.read_csv("data/Products_with_Categories.csv")
-st.dataframe(products.head())
-
-transactions = pd.read_csv("data/Transactions.csv")
-st.dataframe(transactions.head())
+st.image('images/data-sample.png', caption="Dữ liệu")
 
 # --- 3. TIỀN XỬ LÝ DỮ LIỆU ---
 st.header("3. Data preprocessing")
