@@ -1,0 +1,23 @@
+{
+    "0": {
+      "name": "💎 Nhóm 0 - Loyal",
+      "traits": "Ưu tiên giữ chân bằng các chương trình ưu đãi độc quyền, cá nhân hóa trải nghiệm mua sắm. Khai thác hành vi mua thường xuyên vào Thứ 3 và Thứ 6 để thúc đẩy doanh số. Áp dụng chương trình khách hàng thân thiết, upsell sản phẩm phù hợp theo lịch sử chi tiêu.",
+      "desc": "Khách hàng thân thiết, mua nhiều lần, gần đây có quay lại, giá trị cao."
+    },
+    "1": {
+      "name": "🌟 Nhóm 1 - Regular",
+      "traits": "Tăng tần suất và giá trị đơn bằng combo sản phẩm, ưu đãi hấp dẫn và chương trình khuyến mãi theo mùa. Gợi ý sản phẩm cá nhân hóa, tập trung tiếp cận vào giữa và cuối tuần để tối ưu hành vi mua sắm.",
+      "desc": "Khách hàng bình thường, mua ít, đã lâu không quay lại, giá trị thấp"
+    },
+    "2": {
+      "name": "⚠️ Nhóm 2 - At-risk",
+      "traits": "Kích hoạt lại bằng ưu đãi đặc biệt cho lần mua tiếp theo. Nhắc nhở về trải nghiệm tốt trong quá khứ, giới thiệu sản phẩm mới hoặc khuyến mãi cá nhân hóa. Tận dụng thói quen mua vào Thứ 3 và Thứ 6 để thu hút trở lại.",
+      "desc": "Khách hàng đã từng rất tốt (mua nhiều & chi tiêu cao) nhưng đã lâu không quay lại (có khả năng rời bỏ lâu rồi)"
+    },
+    "3": {
+      "name": "🚫 Nhóm 3 - No Potential",
+      "traits": "Tối ưu chi phí bằng cách hạn chế tiếp cận trực tiếp. Sử dụng các kênh marketing chi phí thấp như email tự động, remarketing thụ động. Có thể bỏ qua nếu nguồn lực hạn chế.",
+      "desc": "Khách hàng đã rời bỏ, ít mua, chi tiêu thấp"
+    }
+  }
+  
